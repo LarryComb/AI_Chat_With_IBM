@@ -1,0 +1,36 @@
+total 24
+drwxr-xr-x  8 larrycombs  staff   256 Jun  9 10:22 .
+drwxr-xr-x  8 larrycombs  staff   256 Jun  2 17:59 ..
+-rw-r--r--@ 1 larrycombs  staff  2177 May 22 20:46 AppDelegate.swift
+	com.apple.TextEncoding	  15 
+	com.apple.lastuseddate#PS	  16 
+drwxr-xr-x  4 larrycombs  staff   128 May 22 20:46 Assets.xcassets
+drwxr-xr-x  4 larrycombs  staff   128 Jun  2 17:04 Base.lproj
+-rw-r--r--@ 1 larrycombs  staff  1463 May 22 20:46 Info.plist
+	com.apple.lastuseddate#PS	  16 
+-rw-r--r--@ 1 larrycombs  staff  2280 Jun  3 09:19 ViewController.swift
+	com.apple.lastuseddate#PS	  16 
+	com.apple.metadata:kMDLabel_gmkz23vmvyp4dshsk36f6gs3qu	  89 
+-rw-r--r--  1 larrycombs  staff     0 Jun  9 10:22 kundapura.txt
+
+./Assets.xcassets:
+total 8
+drwxr-xr-x  4 larrycombs  staff  128 May 22 20:46 .
+drwxr-xr-x  8 larrycombs  staff  256 Jun  9 10:22 ..
+drwxr-xr-x  3 larrycombs  staff   96 May 22 20:46 AppIcon.appiconset
+-rw-r--r--  1 larrycombs  staff   62 May 22 20:46 Contents.json
+
+./Assets.xcassets/AppIcon.appiconset:
+total 8
+drwxr-xr-x  3 larrycombs  staff    96 May 22 20:46 .
+drwxr-xr-x  4 larrycombs  staff   128 May 22 20:46 ..
+-rw-r--r--  1 larrycombs  staff  1590 May 22 20:46 Contents.json
+
+./Base.lproj:
+total 24
+drwxr-xr-x  4 larrycombs  staff   128 Jun  2 17:04 .
+drwxr-xr-x  8 larrycombs  staff   256 Jun  9 10:22 ..
+-rw-r--r--@ 1 larrycombs  staff  1681 May 22 20:46 LaunchScreen.storyboard
+	com.apple.TextEncoding	  15 
+-rw-r--r--@ 1 larrycombs  staff  4156 Jun  2 17:04 Main.storyboard
+	com.apple.lastuseddate#PS	  16 
